@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinProject</string>
+    <string name="error_msg">Unable to fetch the categories</string>
+</resources>
